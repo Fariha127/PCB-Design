@@ -10,7 +10,7 @@ This repository contains the **schematic and PCB layout for the MPU6050**, desig
 * Decoupling capacitors for stable operation
 * Clean, compact, and fabrication-ready layout
 
-#### 🛠 Files Included
+#### 📁 Files Included
 
 * Altium project files (`.SchDoc`, `.PcbDoc`, etc.)
 * Schematic diagram, Top layer, Bottom layer, 3D layout images
