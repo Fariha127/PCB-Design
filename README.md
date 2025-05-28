@@ -14,10 +14,10 @@ This repository contains the **PCB design files for \[Project Name]**, created u
 
 #### 📁 Repository Contents
 
-* Altium project files (`.SchDoc`, `.PcbDoc`, `.PrjPcb`)
+* Altium project files (`.SchDoc`, `.PcbDoc`)
 * Datasheets of components
-* Bill of Materials (BOM)
-* Assembly drawings and design previews of top layer, bottom layer and 3D layouts
+* Assembly drawings and design previews of top layer, bottom layer and schematic diagram
+* 3D layout
 
 #### 🛠 Tools Used
 
