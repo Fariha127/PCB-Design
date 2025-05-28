@@ -15,6 +15,11 @@ This repository contains the **schematic and PCB layout for the MPU6050**, desig
 * Altium project files (`.SchDoc`, `.PcbDoc`, etc.)
 * Schematic diagram, Top layer, Bottom layer, 3D layout images
 
+#### 🛠 Tools Used
+
+* **Altium Designer** (version \[insert version])
+
+
 #### 📎 Notes
 
 * Designed with standard 5V/3.3V logic level compatibility
