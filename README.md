@@ -12,7 +12,7 @@ This repository contains the **PCB design files for \[Project Name]**, created u
 
 * Altium project files (`.SchDoc`, `.PcbDoc`)
 * Datasheets of components
-* Assembly drawings and design previews of top layer, bottom layer and schematic diagram
+* Design previews of top layer, bottom layer and schematic diagram
 * 3D layout
 
 #### 🛠 Tools Used
